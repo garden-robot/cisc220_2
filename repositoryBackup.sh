@@ -8,6 +8,7 @@ read repfolder url username pass
 
 
 backup="backup"
+https="https://"
 date=$(date +%Y%m%d%H)
 
 tar czvf $backup$date.tar.gz $repfolder
@@ -15,6 +16,8 @@ tar czvf $backup$date.tar.gz $repfolder
 sleep 3
 
 echo "Backup $backup$date.tar.gz$repfolder created successfully!"
+
+git remote set-url origin $https$url
 
 git add $backup$date.tar.gz
 
