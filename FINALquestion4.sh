@@ -1,3 +1,8 @@
+#Josh Burak, 10169785
+#Dhanish Chinniah, 10170731
+#Kat Pinto (Zwach), 10168919
+
+
 echo IP Address			Domain Name
 for ((i=1; i<256; i++)); do
 	for ((j=0; j<256; j++)); do
