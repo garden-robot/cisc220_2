@@ -1,4 +1,6 @@
-#Kat Pinto 10168919
+#Kat Pinto - 10168919
+#Josh Burak - 10169785
+#Dhanish Chinniah - 10170731
 
 
 read repfolder url username pass
