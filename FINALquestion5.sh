@@ -1,3 +1,8 @@
+#Josh Burak, 10169785
+#Dhanish Chinniah, 10170731
+#Kat Pinto (Zwach), 10168919
+
+
 iptables -F INPUT
 iptables -F FORWARD
 iptables -F OUTPUT
