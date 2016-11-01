@@ -1,7 +1,7 @@
 #!/bin/bash
-# Josh Burak - 
-# Kat Pinto -
-# Dhanish Chinniah - 10170731
+#Josh Burak, 10169785
+#Dhanish Chinniah, 10170731
+#Kat Pinto (Zwach), 10168919
 
 ps axo comm,pid,ppid,start,user > processesTreeRaw.txt
 
